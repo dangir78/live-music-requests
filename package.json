@@ -1,0 +1,12 @@
+{
+  "name": "live-music-requests",
+  "version": "1.0.0",
+  "description": "Live music song request platform for musicians",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+} 
